@@ -1,0 +1,5 @@
+Credentials cache: API:F5B1EFCA-C95A-4C94-80D0-129780850F67
+        Principal: amusso-g@42ADEL.ORG.AU
+
+  Issued                Expires               Principal
+Nov 23 11:41:26 2021  Nov 23 21:41:26 2021  krbtgt/42ADEL.ORG.AU@42ADEL.ORG.AU
